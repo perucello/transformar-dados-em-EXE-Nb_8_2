@@ -1,0 +1,24 @@
+1 Fechar Netbeans
+
+2 após instalar, no windows 10 abrir "variaveis de Ambiente do Sistema"
+
+3 Ir em Variaveis do Ambiente
+
+4 Duplo Clique em Path para abrir
+
+5 na ultima linha em branco, copiar os enderecos dos dois programas sendo:
+a) C:\Program Files (x86)\Inno Setup 6
+b) C:\Program Files (x86)\WiX Toolset v3.11\bin
+
+6 Iniciar NB
+
+7 Clicar com botao direito em cima do projeto, 
+Propriedades, 
+Implantação 
+e marcar a opção ATIVAR AÇÕES DO ENCAPSULAMENTO
+
+8 Clicar com botao direito em cima do projeto, 
+e aparece a opcao encapsulamento 
+e so escolher exe ou qualquer outro
+
+
